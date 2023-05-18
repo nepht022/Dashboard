@@ -12,7 +12,7 @@
 
 <h3 align="center">Documentacao</h3>
 <p align="center">Preview da página de documentação da aplicação (Zoom: 100%)</p>
-<img src="/public/preview/Dashboard-Selecionada-Preview.png">
+<img src="/public/preview/Dashboard-Documentacao-Preview.png">
 
 <h3 align="center">Suporte</h3>
 <p align="center">Preview da página de suporte da aplicação (Zoom: 100%)</p>
